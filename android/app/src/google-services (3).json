@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "845186618652",
+    "project_id": "reminder-a3b67",
+    "storage_bucket": "reminder-a3b67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845186618652:android:de7b1c4013cae83e8596d9",
+        "android_client_info": {
+          "package_name": "com.example.reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845186618652-d2iepr8i9ocejipgq8bfre5n44kkragj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reminder",
+            "certificate_hash": "7ec60244ec968b0d46ff3e05cf740c3b29ff693c"
+          }
+        },
+        {
+          "client_id": "845186618652-n8cotqgmsbgm0ogc1i5ojud5on52vssa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9j8bY_59DERlCaS6LcVg5kw3Qhq7MDDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845186618652-n8cotqgmsbgm0ogc1i5ojud5on52vssa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
