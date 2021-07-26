@@ -35,6 +35,7 @@ dependencies:
     flutter_local_notifications: ^1.4.4+1
     firebase_auth:
     google_sign_in: ^4.4.4
+    flutter_bloc: ^7.0.0
 
     flutter_facebook_login: ^3.0.0
 
